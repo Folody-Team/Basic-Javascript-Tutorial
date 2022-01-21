@@ -15,3 +15,8 @@ const name = 'bob';
 //Example:
 const string = "string 'a'"
 const string2 = 'string "b"'
+
+//You can find the length of a string by using the built in "length" property:
+let age = "twenty";
+let ageLength = age.length;
+//It will print out 6 in the console
