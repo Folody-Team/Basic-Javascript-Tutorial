@@ -36,3 +36,12 @@ let x = "x1";
 let x = 0;
 
 // Error message : SyntaxError: 'x' has already been declared
+
+// There are a way to declare multiple value in the same variable 
+// Example:
+
+var multipleVar = ["variable1" , "variable2" , "variable3"];
+console.log(multipleVar); // this will print out : variables1,variable2,variable3
+
+//you can even declare an array using the Javascript keyword "new"
+const Name = new Array("Peter", "Paul", "Bob");
