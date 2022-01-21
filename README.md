@@ -4,7 +4,7 @@ Welcome to this repo , this suppose to be a friendly way to learn javascript for
 This tutorial contain some of the function, the basic of javascript with example code
 
 # what is javascript?
-JavaScript is a scripting or programming language that allows you to implement complex features on web pages — every time a web page does more than just sit there and display static information for you to look at — displaying timely content updates, interactive maps, animated 2D/3D graphics, scrolling video jukeboxes, etc. — you can bet that JavaScript is probably involved. It is the third layer of the layer cake of standard web technologies, two of which (HTML and CSS) we have covered in much more detail in other parts of the Learning Area.
+JavaScript is a scripting or programming language that allows you to implement complex features on web pages — every time a web page does more than just sit there and display static information for you to look at — displaying timely content updates, interactive maps, animated 2D/3D graphics, scrolling video jukeboxes, etc. — you can bet that JavaScript is probably involved. It is the third layer of the layer cake of standard web technologies, two of which (HTML and CSS) we have covered in much more detail in other parts of the Learning Area. [see more](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript?retiredLocale=vi)
 
 ## How to start ?
 Simply , you'll need a code editor , i suggest using visual studio code or [replit](https://replit.com).
