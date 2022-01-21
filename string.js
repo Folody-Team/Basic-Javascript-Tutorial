@@ -10,3 +10,8 @@ const name = "Bob";
 
 //you can also use single quote as well:
 const name = 'bob';
+
+//It is possible to use a quote inside a string, as long as the quote don't match the surrounding strings
+//Example:
+const string = "string 'a'"
+const string2 = 'string "b"'
